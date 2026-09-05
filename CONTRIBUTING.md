@@ -36,9 +36,13 @@ third-party content, preserve its notices, and provide evidence of the terms
 that permit the intended use. Do not present third-party work as an original
 project contribution or remove its license notices.
 
-The project's code and documentation license selection is being completed in
-[issue #2](https://github.com/gle-mini/statistical-replication-gym/issues/2).
-Until that decision is recorded, this guide does not grant a project license.
+By intentionally submitting original code for inclusion, you agree to contribute
+it under Apache-2.0. By intentionally submitting original documentation for
+inclusion, you apply CC0-1.0 to that contribution to the extent you hold the
+relevant rights. You retain ownership; no copyright assignment is required.
+See [LICENSING.md](LICENSING.md) for the exact boundaries, full texts, and
+third-party exclusions. Identify any exception explicitly before review;
+incompatible or unresolved material must not be merged under the default terms.
 
 ## Papers, datasets, author code, and derived assets
 
